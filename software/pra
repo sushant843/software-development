@@ -1,0 +1,53 @@
+ <!-- <div class="column-grid">
+           <!-- first -->
+           <div class="video1"> 
+              
+                   <div class="video-info-grid" >
+                               
+                       <p class="community-name">COMMUNITY OF SOFTWARE DEVELOPMENT</p>
+                   </div>
+           </div>
+           
+            <!-- second -->
+           <div class="video1"> 
+               <div>
+                   <img  class="thumbnail1" src="community2.jpg" alt="thumbnail">
+               </div>
+                   <div class="video-info-grid" >
+                               
+                       <p class="community-name">COMMUNITY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</p>
+                    </div>
+           </div>
+           
+             <!-- third -->
+           <div class="video1"> 
+               <div>
+                   <img  class="thumbnail1" src="community3.jpeg" alt="thumbnail">
+               </div>
+                   <div class="video-info-grid" >
+                               
+                       <p class="community-name">COMMUNITY OF CYBERSECURITY & BLOCKCHAIN</p>
+                   </div>
+           </div>
+             <!-- fourth -->
+           <div class="video1"> 
+               <div>
+                   <img  class="thumbnail1" src="community4.jpg" alt="thumbnail">
+               </div>
+                   <div class="video-info-grid" >
+                               
+                       <p class="community-name">COMMUNITY OF MEDIA CELL</p>
+                   </div>
+           </div>
+             <!-- fifth -->
+           <div class="video2"> 
+               <div>
+                   <img  class="thumbnail1" src="community5.jpg" alt="thumbnail">
+               </div>
+                   <div class="video-info-grid" >
+                               
+                       <p class="community-name">COMMUNITY OF ELECTRONICS AND AUTOMATION</p>
+                   </div>
+           </div>
+       </div>--> 
+   
